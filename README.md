@@ -10,8 +10,14 @@ This project is only for learning and educational purposes and is not intended f
 usage:
 
 ```bash
-> python Proxifier_Keygen.py -v portable
+$ python Proxifier_Keygen.py -v setup
+CLOT5-J3GYK-VGPYE-BDPMN-WKWMU
+
+$ python Proxifier_Keygen.py -v portable
 N4QLV-C2YEA-NA6WP-QCS0H-KTDBH
+
+$ python Proxifier_Keygen.py -v mac
+57J8Z-D2QD5-A37WU-LEG4E-43WYH
 ```
 
 ![image-20230815234150715](README.assets/image-20230815234150715.png)

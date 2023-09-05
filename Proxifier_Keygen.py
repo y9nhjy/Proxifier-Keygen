@@ -4,7 +4,7 @@ from time import time
 
 
 def get_parser():
-    parser = argparse.ArgumentParser(usage='python3 Proxifier_Keygen.py [-v setup]',
+    parser = argparse.ArgumentParser(usage='python3 Proxifier_Keygen.py [-v setup/portable/mac]',
         description='Proxifier_Keygen: 基于python3的Proxifier注册机, 默认key为setup版本',
                                      )
     p = parser.add_argument_group('Proxifier_Keygen的参数')
