@@ -14,7 +14,7 @@ $ python Proxifier_Keygen.py -v setup
 CLOT5-J3GYK-VGPYE-BDPMN-WKWMU
 
 $ python Proxifier_Keygen.py -v portable
-N4QLV-C2YEA-NA6WP-QCS0H-KTDBH
+NY8VX-Z2NH2-TFXWY-IL5YC-GARRM
 
 $ python Proxifier_Keygen.py -v mac
 57J8Z-D2QD5-A37WU-LEG4E-43WYH
